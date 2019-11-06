@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "636336679954",
+    "firebase_url": "https://bangundatarapp.firebaseio.com",
+    "project_id": "bangundatarapp",
+    "storage_bucket": "bangundatarapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636336679954:android:0cb2969f15eb871c",
+        "android_client_info": {
+          "package_name": "com.averoes.daff.bangundatarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636336679954-cuqegn1e4d96tjjscjp41obfatrukjmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.averoes.daff.bangundatarapp",
+            "certificate_hash": "ee5d3662d810a6b98806bd044a46a035e82e2046"
+          }
+        },
+        {
+          "client_id": "636336679954-jli7e9i4gua5j7mrp06gdvgsh7i63k7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBxQ3CAAVN_NrB7KeO5102JMvhViT-Cs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636336679954-jli7e9i4gua5j7mrp06gdvgsh7i63k7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

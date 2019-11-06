@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rumus_segitiga"
+            android:gravity="center"/>
+
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai_1"
+            android:inputType="numberDecimal"
+            android:id="@+id/nilai1"/>
+
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nilai_2"
+            android:inputType="numberDecimal"
+            android:id="@+id/nilai2"/>
+
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_hitung"
+            android:id="@+id/btnhitung"
+            android:textAllCaps="false"/>
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hasil"
+            android:id="@+id/txt_hasil"
+            android:textSize="16sp"
+            android:gravity="center"/>
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pindah_nilai"
+            android:textAllCaps="false"
+            android:id="@+id/btnpindah"/>
+</LinearLayout>

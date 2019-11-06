@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="move_activity">Move Activity</string>
+    <string name="move_data">Move Data</string>
+    <string name="call_activity">Call Activity</string>
+    <string name="sms_activity">Sms Activity</string>
+    <string name="browser_activity">Browser Activity</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="elhazent">Elhazent</string>
+    <string name="move">Ini Adalah Move Activity</string>
+    <string name="panggil">panggil</string>
+    <string name="masukkan_url_website">Masukkan Url Website</string>
+    <string name="search">Search</string>
+    <string name="https">https://</string>
+    <string name="inputkan_pesan">inputkan pesan</string>
+    <string name="masukkan_nomor">Masukkan Nomor</string>
+    <string name="kirim">kirim</string>
+</resources>

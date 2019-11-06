@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:background="@android:color/holo_blue_light"
+        tools:context=".database.DailyActivity">
+
+    <ImageView
+            android:id="@+id/img_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/date"/>
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/date_picker"
+            android:text="@string/insert_date"/>
+
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/title_daily"
+            android:hint="@string/title"
+            android:maxLines="1"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Body2"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/note_daily"
+            android:hint="@string/note"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Body2"/>
+    <Button
+            android:id="@+id/btn_save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_save"
+            android:textAllCaps="false"
+            android:textSize="16sp"
+            style="@style/Widget.AppCompat.Button.Colored"/>
+
+
+</LinearLayout>

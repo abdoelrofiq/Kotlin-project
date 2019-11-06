@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118188593994",
+    "firebase_url": "https://dailynote-2118b.firebaseio.com",
+    "project_id": "dailynote-2118b",
+    "storage_bucket": "dailynote-2118b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118188593994:android:d6bd753b0577abb3",
+        "android_client_info": {
+          "package_name": "com.averoes.daff.dailynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118188593994-2mancu047125uq8q3jvjrdg865i534ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.averoes.daff.dailynote",
+            "certificate_hash": "ee5d3662d810a6b98806bd044a46a035e82e2046"
+          }
+        },
+        {
+          "client_id": "118188593994-jjgeo7jcke34euc33i9d0snh3qpn7dk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv85CtkQuoVN25w4k7iAiBhfUaBQktrKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118188593994-jjgeo7jcke34euc33i9d0snh3qpn7dk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

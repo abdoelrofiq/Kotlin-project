@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bangun Datar App</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="rumus_segitiga">RUMUS SEGITIGA</string>
+    <string name="nilai_1">Nilai 1</string>
+    <string name="button_hitung">Button Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="pindah_nilai">Pindah nilai</string>
+    <string name="nilai_2">nilai 2</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="back">Back</string>
+</resources>

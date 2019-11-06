@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "148063726010",
+    "firebase_url": "https://ankocommonsexample.firebaseio.com",
+    "project_id": "ankocommonsexample",
+    "storage_bucket": "ankocommonsexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148063726010:android:85f57742320bffc1",
+        "android_client_info": {
+          "package_name": "com.averoes.daff.ankocommonsexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148063726010-c4c9b9qfqa8vn3cjje273ite50cnqpu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.averoes.daff.ankocommonsexample",
+            "certificate_hash": "ee5d3662d810a6b98806bd044a46a035e82e2046"
+          }
+        },
+        {
+          "client_id": "148063726010-k1rikmpkv9ubp4c61jcniui6vede0b36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58JPlGFAhqNiETXuCv09h8dvnzgAKpg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148063726010-k1rikmpkv9ubp4c61jcniui6vede0b36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

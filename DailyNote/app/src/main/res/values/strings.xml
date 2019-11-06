@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily Note</string>
+    <string name="insert_date">Insert Date</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="btn_save">Save</string>
+    <string name="create_note">Create Note</string>
+    <string name="show_note">Show Note</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Note Daily App</string>
+    <string name="inpu_title">Title</string>
+    <string name="input_note">Note</string>
+    <string name="input_date">Date</string>
+    <string name="add_note">Add Note</string>
+    <string name="date_note">2019-02-02</string>
+    <string name="title_note">Title</string>
+    <string name="body_note">Note</string>
+</resources>

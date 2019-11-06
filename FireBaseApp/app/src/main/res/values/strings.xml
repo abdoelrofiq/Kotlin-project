@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FireBase App</string>
+    <string name="welcome_to_firebase">Welcome To Firebase</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="text_buat_akun">Belum punya akun buat disini</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_out">sign out</string>
+    <string name="delete_account">delete account</string>
+    <string name="email">Email</string>
+    <string name="change_pass">Change Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="change">Change</string>
+    <string name="change_email">Change Email</string>
+    <string name="insert_date">Insert Date</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="btn_save">Save</string>
+    <string name="create_note">Create Note</string>
+</resources>

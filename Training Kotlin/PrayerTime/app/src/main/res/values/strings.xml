@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prayer Time</string>
+    <string name="input_your_city">Input Your City</string>
+    <string name="search">Search</string>
+</resources>

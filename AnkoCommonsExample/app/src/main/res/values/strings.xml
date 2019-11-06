@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anko Commons Example</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="welcome">Welcome</string>
+</resources>
