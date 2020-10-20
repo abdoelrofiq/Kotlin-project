@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
 
      val KEY_1:String = "nilai1"
      val KEY_2:String = "nilai2"
-    val KEY_3:String = "hasil"
+     val KEY_3:String = "hasil"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
